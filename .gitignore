@@ -18,4 +18,5 @@
 !/epgstation/config/serviceLogConfig.sample.yml
 /epgstation/data/*.json
 /docker-compose.yml
+!enc_vaapi.js.template
 !.gitkeep
